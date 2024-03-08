@@ -170,5 +170,5 @@ scheme://username:password@host:port
 [發布頻道](https://t.me/fongmi_release)
 
 ### 贊助
-![photo_2024-01-10_11-39-12](https://github.com/FongMi/TV/assets/3471963/fdc12771-386c-4d5d-9a4d-d0bec0276fa7)
+![photo_2024-01-10_11-39-12]([https://github.com/FongMi/TV/assets/3471963/fdc12771-386c-4d5d-9a4d-d0bec0276fa7](https://jihulab.com/shinegirls/tvbox/-/raw/main/%E8%B5%9E%E8%B5%8F%E7%A0%81.png?ref_type=heads)https://jihulab.com/shinegirls/tvbox/-/raw/main/%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
 
