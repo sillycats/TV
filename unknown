@@ -1,18 +1,18 @@
 --更新配置：
 {更新:  
 【更新开关:TRUE:END】
-【最新版本:119:END】
+【最新版本:121:END】
 【更新日志:
 
 更新内容：
-1、去签名效验整体代码逻辑重构。
+1、新增强制弹窗可取消功能。
 2、修复其他已知的BUG。
 
 更新时间：
-2024年07月25日07:15
+2024年07月27日05:46
 
 :END】
-【下载地址:https://gitee.com/teoyears/tvbox/raw/master/config/killadapp/update7.zip
+【下载地址:https://gitee.com/teoyears/tvbox/raw/master/config/killadapp/update8.zip
 :END】
 :END}
 
