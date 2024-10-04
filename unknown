@@ -1,18 +1,18 @@
 --更新配置：
 {更新:  
 【更新开关:TRUE:END】
-【最新版本:130:END】
+【最新版本:131:END】
 【更新日志:
 
 更新内容：
-1、新增注入文件提供器。
+1、简约美化布局。
 2、修复已知BUG。
 
 更新时间：
 2024年10月01日08:30
 
 :END】
-【下载地址:https://gitee.com/teoyears/tvbox/raw/master/config/killadapp/update17.zip
+【下载地址:https://gitee.com/teoyears/tvbox/raw/master/config/killadapp/update18.zip
 :END】
 :END}
 
@@ -22,7 +22,6 @@
 最新版本="10003"
 更新内容="更新内容：
 1、优化云更新功能。
-2、新增去签名效验。
-3、修复已知的BUG。
+2、修复已知的BUG。
 "
 更新地址="https://killads.lanzouj.com/b00wlqi2ja"
